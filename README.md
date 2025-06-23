@@ -11,7 +11,7 @@ O sistema é uma aplicação **fullstack**, incluindo:
 
 ## Design do Projeto
 
-![preview](./frontend/imgs/project.png)
+##<img src= "projet.png"
 
 ---
 
